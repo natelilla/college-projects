@@ -1,2 +1,2 @@
 # college-projects
-Projects created in college.
+This is a compilation of some of the projects I did in college.
