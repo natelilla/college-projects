@@ -1,5 +1,3 @@
-package edu.uwp.cs.csci242.assignments.a04.recursion;
-
 /**
  * This project uses recursion to do isolated tasks.
  * <p>
